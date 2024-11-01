@@ -3,7 +3,7 @@
  * Plugin Name:     WP Custom Author URL
  * Plugin URI:      https://poodleplugins.com/
  * Description:     Choose a custom URL for your author links, instead of the standard WordPress author page.
- * Version:         2.1.0
+ * Version:         2.0.2
  * Author:          Poodle Plugins
  * Author URI:      https://poodleplugins.com
  * License:         GPL-3.0+
