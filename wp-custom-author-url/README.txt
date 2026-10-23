@@ -3,7 +3,7 @@ Contributors: poodleplugins
 Tags: banner, author, profile, author url, custom url
 Requires at least: 3.0.1
 Requires PHP: 5.6
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 2.1.0
 License: GPL-3.0+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
